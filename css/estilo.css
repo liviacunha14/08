@@ -1,13 +1,13 @@
 body {
   margin: 0 auto;
   max-width: 800px;
-  background-color: #f19011;
+  background-color: #f1a31157;
   font-family: 'Arial', sans-serif;
   padding: 20px;
 }
 
 #titulo {
-  color: #f1950a7c;
+  color: #f1950aab;
   text-align: center;
   font-family: 'Georgia', serif;
 }
@@ -22,17 +22,17 @@ body {
 
 .menu a {
   text-decoration: none;
-  color: #da78369d;
+  color: #e06b1d9d;
   font-weight: bold;
   font-family: 'Verdana', sans-serif;
 }
 
 .menu a:hover {
-  color: #dd3c2a;
+  color: #cf5c4f;
 }
 
 .paragrafo {
-  color: #f0670c;
+  color: #f7f6f60005;
   line-height: 1.6;
   text-align: justify;
 }
@@ -51,9 +51,9 @@ body {
 }
 
 main {
-  background-color: #e91b1b;
+  background-color: #b44343cc;
   padding: 20px;
-  border: 1px solid #d66a22;
+  border: 1px solid #d66a22c0;
   border-radius: 10px;
   margin-top: 20px;
 }
