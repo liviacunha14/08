@@ -1,0 +1,59 @@
+body {
+  margin: 0 auto;
+  max-width: 800px;
+  background-color: #f0f8ff;
+  font-family: 'Arial', sans-serif;
+  padding: 20px;
+}
+
+#titulo {
+  color: #f1950a7c;
+  text-align: center;
+  font-family: 'Georgia', serif;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 0;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #da7736;
+  font-weight: bold;
+  font-family: 'Verdana', sans-serif;
+}
+
+.menu a:hover {
+  color: #dd3c2a;
+}
+
+.paragrafo {
+  color: #f17e3b;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.lista {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.imagem {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  display: block;
+  margin: 0 auto 20px auto;
+}
+
+main {
+  background-color: #e91b1b;
+  padding: 20px;
+  border: 1px solid #d66a22;
+  border-radius: 10px;
+  margin-top: 20px;
+}
