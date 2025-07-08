@@ -1,7 +1,7 @@
 body {
   margin: 0 auto;
   max-width: 800px;
-  background-color: #f0f8ff;
+  background-color: #f19011;
   font-family: 'Arial', sans-serif;
   padding: 20px;
 }
@@ -22,7 +22,7 @@ body {
 
 .menu a {
   text-decoration: none;
-  color: #da7736;
+  color: #da78369d;
   font-weight: bold;
   font-family: 'Verdana', sans-serif;
 }
@@ -32,7 +32,7 @@ body {
 }
 
 .paragrafo {
-  color: #f17e3b;
+  color: #f0670c;
   line-height: 1.6;
   text-align: justify;
 }
