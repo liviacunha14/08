@@ -1,13 +1,13 @@
 body {
   margin: 0 auto;
   max-width: 800px;
-  background-color: #9986df;
+  background-color: #2d148a;
   font-family: 'Arial', sans-serif;
   padding: 20px;
 }
 
 #titulo {
-  color: #12d6f0;
+  color: #131414;
   text-align: center;
   font-family: 'Georgia', serif;
 }
@@ -22,17 +22,17 @@ body {
 
 .menu a {
   text-decoration: none;
-  color: #96caec;
+  color: #0d91e9;
   font-weight: bold;
   font-family: 'Courier New', monospace;
 }
 
 .menu a:hover {
-  color: #15e6ca;
+  color: #6f41ac;
 }
 
 .paragrafo {
-  color: #0d7ff1;
+  color: #eaf0f700;
   line-height: 1.6;
   text-align: justify;
 }
@@ -51,9 +51,9 @@ body {
 }
 
 main {
-  background-color: #8d10d4;
+  background-color: #ba76e0;
   padding: 20px;
-  border: 1px solid #d3a6a6;
+  border: 1px solid #10e7d5;
   border-radius: 10px;
   margin-top: 20px;
 }
